@@ -1,3 +1,6 @@
 line 1
 Line 3
 Added it to master
+
+I added it from the feature branch
+I added it again
